@@ -31,4 +31,4 @@ gh repo clone charbileigh/API-Random-Quote-Generator
 - No frameworks, minimal JS, CSS and HTML
 
 ## License
-GNU Public License. However, this repo cannot be used for commercial purposes. 
+GNU General Public License. However, this repo cannot be used for commercial purposes. 
