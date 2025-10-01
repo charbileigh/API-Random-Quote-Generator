@@ -77,6 +77,10 @@ body {
 @media screen and (min-width: 680px){
     .quote-wrapper {
         width: 600px;
-    }
-    
+    }I
+}
+
+/* Subtle shimmer while loading */
+blockquote[aria-live="polite"] {
+  transition: opacity 0.2s ease;
 }
